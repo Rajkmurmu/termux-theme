@@ -1,2 +1,2 @@
 # termux-theme
-Just for fun
+Custom Termux theme with Nerd Fonts and shell branding
